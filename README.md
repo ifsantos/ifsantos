@@ -16,6 +16,7 @@ Here are some things about me:
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ismael-fofonka)
 - 😄 Pronouns: "If you are a self-taught, embrace the pain. Not to have felt pain is haven't been human."
 - ⚡ Fun fact: 💚🚴
+- 🛰️ Tech Trends: 1[tiobe] 2[twtechradar] 3[sotrends] 4[so2021survey]
 
 ### Languages and Tools:
 
@@ -44,6 +45,10 @@ Here are some things about me:
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 
+[so2021survey]: https://insights.stackoverflow.com/survey/2021
+[sotrends]: https://insights.stackoverflow.com/trends?tags=python%2Cjava%2Cnode.js%2Cjavascript%2Cgo%2Cphp%2Ctypescript
+[twtechradar]: https://www.thoughtworks.com/en-us/radar
+[tiobe]: https://www.tiobe.com/tiobe-index/
 [twitter]: https://twitter.com/ifsantos
 [instagram]: https://instagram.com/ifsantos
 [linkedin]: https://linkedin.com/in/ismael-fofonka
