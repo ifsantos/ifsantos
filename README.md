@@ -12,7 +12,7 @@ Here are some things about me:
 - 🤔 I’m looking for help with Containers, Cloud and DevOps
 - 💬 Ask me about Java, Design Patterns, REST, ShellScript, Python
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ismael-fofonka)
-- 😄 Pronouns: "If you are a self-taught, embrace the pain. Not to have felt pain is have been human."
+- 😄 Pronouns: "If you are a self-taught, embrace the pain. Not to have felt pain is haven't been human."
 - ⚡ Fun fact: I :love: cycling :bike:
 
 ### Languages and Tools:
