@@ -16,7 +16,7 @@ Here are some things about me:
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ismael-fofonka)
 - 😄 Pronouns: "If you are a self-taught, embrace the pain. Not to have felt pain is haven't been human."
 - ⚡ Fun fact: 💚🚴
-- 🛰️ Tech Trends: 1[tiobe] 2[twtechradar] 3[sotrends] 4[so2021survey]
+- 🛰️ Tech Trends: [tiobe] [twtechradar] [sotrends] [so2021survey]
 
 ### Languages and Tools:
 
