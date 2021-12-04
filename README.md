@@ -9,9 +9,9 @@
 Here are some things about me:
 
 - 🔭 I’m currently working on personal tools using NodeJS
-- 🌱 I’m currently learning NodeJS, JavaScript, TypeScript, Web HTML5/CSS3
+- 🌱 I’m currently learning NodeJS, JavaScript, TypeScript, Web HTML5/CSS3, Containers, Cloud and DevOps
 - 👯 I’m looking to collaborate on a cool stuff
-- 🤔 I’m looking for help with Containers, Cloud and DevOps
+- 🤔 I’m looking for help with Performance analysis, New Relic & Dynatrace (APM tools)
 - 💬 Ask me about Java, Design Patterns, REST, ShellScript, Python
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ismael-fofonka)
 - 😄 Pronouns: "If you are a self-taught, embrace the pain. Not to have felt pain is haven't been human."
