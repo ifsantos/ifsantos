@@ -8,7 +8,7 @@
 
 Here are some things about me:
 
-- 🔭 I’m currently working on personal tools using NodeJS
+- 🔭 I’m currently working on personal tools using Angular and Java. Sometimes NodeJS takes place.
 - 🌱 I’m currently learning NodeJS, JavaScript, TypeScript, Web HTML5/CSS3, Containers, Cloud and DevOps
 - 👯 I’m looking to collaborate on a cool stuff
 - 🤔 I’m looking for help with Performance analysis, Observability, OpenTelemetry, New Relic, DataDog or Dynatrace (APM tools), Kiali
